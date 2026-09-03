@@ -37,7 +37,7 @@ If the rooftop closes, the closing showcase will move to the Innovation Atrium.
 
 ## Unresolved items
 
-- Choose a festival slogan.
+- make america great again.
 - Add one new student-led attraction.
 - Confirm the opening ceremony time and location after team review.
 
