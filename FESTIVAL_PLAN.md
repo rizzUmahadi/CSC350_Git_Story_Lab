@@ -37,7 +37,7 @@ If the rooftop closes, the closing showcase will move to the Innovation Atrium.
 
 ## Unresolved items
 
-- make america great again.
+- Let's eat and get fat.
 - Add one new student-led attraction.
 - Confirm the opening ceremony time and location after team review.
 
